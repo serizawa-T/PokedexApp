@@ -1,16 +1,8 @@
-# pokemon_app
+ポケモンAPIを使ってFlutterのサンプルアプリを作りました
 
-A new Flutter project.
 
-## Getting Started
+### ポケモン一覧
+<img src="https://user-images.githubusercontent.com/86996275/202361259-35768801-ffb1-4f62-8d59-5f00285429d3.png" width=300>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ポケモン詳細
+<img src="https://user-images.githubusercontent.com/86996275/202361346-3e65ccb7-4f1f-42da-b61f-b5aabab6f809.png" width=300>
